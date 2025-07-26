@@ -1,16 +1,19 @@
-<!-- Animated Typing Header -->
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Khushi Roy</h1>
+<h3 align="center">CSE Student | Web Developer | AI Enthusiast</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F761C2&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Khushi+Roy!;CSE+AI+%26+ML+Student+%7C+VIT+Bhopal;Web+Dev+%7C+Python+%7C+Gen+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+am+learning+Web+Development;Exploring+Generative+AI+Tools;Building+Projects+and+Solving+DSA" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 1st Year **CSE (AI & ML)** student at **VIT Bhopal**
+- 🎓 1st Year **CSE (AI & ML)** student at **VIT **
 - 💻 Learning **Web Development** with Apna College Sigma 8.0
 - 🧠 Exploring **Python, DSA, Git, and Generative AI**
-- 🎯 Aiming for internships and hackathons by 2nd year
+- 🎯 Aiming for internships and hackathons 
 - 💡 Passionate about building and creating digital solutions
 
 ---
